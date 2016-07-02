@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FR - Blog ecommerce par PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/fr</link>
+	<description></description>
+	<lastBuildDate>Tue, 21 Jun 2016 07:00:48 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+
+	<item>
+		<title>Paypal - (Officiel) - PrestaShop Security Vulnerability 17 Juin 2016</title>
+		<link>https://www.prestashop.com/forums/topic/537812-paypal-officiel-prestashop-security-vulnerability-17-juin-2016/</link>
+		<comments>https://www.prestashop.com/forums/topic/537812-paypal-officiel-prestashop-security-vulnerability-17-juin-2016/</comments>
+		<pubDate>Tue, 21 Jun 2016 07:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[202 ecommerce]]></dc:creator>
+				<category><![CDATA[Security]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/forums/topic/537812-paypal-officiel-prestashop-security-vulnerability-17-juin-2016/</guid>
+		<description><![CDATA[En tant qu’utilisateur PayPal disposant d’une boutique PrestaShop , nous vous informons qu’une vulnérabilité informatique détectée dans la dernière version du Module Officiel PayPal nécessite de votre part l’installation urgente d’une mise à jour de sécurité.
+La mise à jour est disponible dans votre back-office PrestaShop et sur la Marketplace officielle de PrestaShop : http://addons.prestashop.com/fr/1748-paypal.html. Connectez-vous à votre boutique PrestaShop pour suivre les instructions d’installation.
+]]></description>
+				<content:encoded><![CDATA[En tant qu’utilisateur PayPal disposant d’une boutique PrestaShop , nous vous informons qu’une vulnérabilité informatique détectée dans la dernière version du Module Officiel PayPal nécessite de votre part l’installation urgente d’une mise à jour de sécurité.
+		La mise à jour est disponible dans votre back-office PrestaShop et sur la Marketplace officielle de PrestaShop : http://addons.prestashop.com/fr/1748-paypal.html. Connectez-vous à votre boutique PrestaShop pour suivre les instructions d’installation.
+		]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/forums/topic/537812-paypal-officiel-prestashop-security-vulnerability-17-juin-2016/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+
+	<item>
+		<title>3 étapes pour proposer une expérience e-commerce personnalisée</title>
+		<link>https://www.prestashop.com/blog/fr/3-etapes-proposer-experience-e-commerce-personnalisee/</link>
+		<comments>https://www.prestashop.com/blog/fr/3-etapes-proposer-experience-e-commerce-personnalisee/#comments</comments>
+		<pubDate>Tue, 21 Jun 2016 07:00:48 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20170</guid>
+		<description><![CDATA[<p>Dans le secteur de l&#8217;e-commerce, la concurrence est de plus en plus féroce. À l&#8217;heure où les clients achètent toujours plus, leurs cycles d&#8217;achat sont de plus en plus longs et les marchands doivent faire des investissements et des efforts considérables pour attirer du trafic. Mais surtout, les clients ont plus de pouvoir que jamais. [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/3-etapes-proposer-experience-e-commerce-personnalisee/">3 étapes pour proposer une expérience e-commerce personnalisée</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Dans le secteur de l&rsquo;e-commerce, la concurrence est de plus en plus féroce. À l&rsquo;heure où les clients achètent toujours plus, leurs cycles d&rsquo;achat sont de plus en plus longs et les marchands doivent faire des investissements et des efforts considérables pour attirer du trafic. </p>
+<p>Mais surtout, les clients ont plus de pouvoir que jamais. Comment faire pour vous démarquer de vos centaines de milliers de concurrents ? Un seul mot : personnalisez. Dans la vidéo d&rsquo;aujourd&rsquo;hui, François Bouquet, responsable du développement métier chez NOSTO France, vous explique l&rsquo;importance de la touche personnelle pour attirer, convertir et fidéliser vos clients et booster votre trafic.<br />
+<span id="more-20170"></span></p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/_z2Mwi1gem8?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&#038;utm_medium=article&#038;utm_campaign=Youtube-launch&#038;utm_content=nosto" target="_blank"><i class="fa fa-youtube-play"></i> Voir plus de vidéos</a></div>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/3-etapes-proposer-experience-e-commerce-personnalisee/">3 étapes pour proposer une expérience e-commerce personnalisée</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/3-etapes-proposer-experience-e-commerce-personnalisee/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Qu’est-ce que le social listening et pourquoi est-il incontournable?</title>
+		<link>https://www.prestashop.com/blog/fr/quest-ce-social-listening-il-incontournable/</link>
+		<comments>https://www.prestashop.com/blog/fr/quest-ce-social-listening-il-incontournable/#comments</comments>
+		<pubDate>Fri, 17 Jun 2016 09:37:18 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20177</guid>
+		<description><![CDATA[<p>Nous avons parfois l’impression d’être assaillis de nouvelles applications ou technologies dès que nous allumons notre ordinateur ou que nous consultons les actualités high-tech. Aussi, il est normal que vous soyez quelque peu dubitatif lorsque de nouveaux mots, comme « social listening », deviennent à la mode et se mettent à surgir de manière récurrente [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/quest-ce-social-listening-il-incontournable/">Qu’est-ce que le social listening et pourquoi est-il incontournable?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Nous avons parfois l’impression d’être assaillis de nouvelles applications ou technologies dès que nous allumons notre ordinateur ou que nous consultons les actualités high-tech.  Aussi, il est normal que vous soyez quelque peu dubitatif lorsque de nouveaux mots, comme « social listening », deviennent à la mode et se mettent à surgir de manière récurrente dans votre fil d’actualité. Pour autant, l’écoute des réseaux sociaux est plus qu’une simple nouvelle tendance ; cette pratique peut même s’avérer particulièrement utile pour les boutiques en ligne. Voici pourquoi.<br />
+<span id="more-20177"></span></p>
+<h2 style="color:#3f3679">Qu’est-ce que le social listening ?</h2>
+<p>L’écoute sociale, comme son nom l’indique, consiste à écouter et surveiller ce que les utilisateurs publient sur les réseaux sociaux. Le suivi des conversations peut notamment se faire grâce aux hashtags. Vous avez la possibilité de suivre n’importe quel sujet, du plus vaste au plus précis. Ainsi, en surveillant ce qui se dit sur les réseaux sociaux, vous vous tenez au courant des différentes tendances en vogue, et ce, en temps réel. Autre avantage non négligeable, vous découvrez en direct les réactions des différentes communautés.  </p>
+<h2 style="color:#3f3679">Mais quel rapport avec ma boutique en ligne ?</h2>
+<p>Si vous possédez une boutique en ligne, vous devez surveiller ce qui se dit sur les réseaux sociaux. Pourquoi ? La réponse tient en deux mots clés : <strong>réseautage et commentaire.</strong></p>
+<h4 style="color:#3f3679">1) Traitez les réclamations client en temps réel</h4>
+<p>L’écoute des médias sociaux est une excellente manière de vous tenir au courant des problèmes que vos clients sont susceptibles de rencontrer. Ainsi, si vous devenez subitement injoignable, c’est sûrement par le biais des médias sociaux que vous le découvrirez. L’écoute sociale permet de réagir en temps réel aux problèmes et de garantir un <a href="https://www.prestashop.com/blog/fr/utilisez-les-reseaux-sociaux-pour-ameliorer-votre-service-client/">service client</a> efficace. </p>
+<h4 style="color:#3f3679">2) Obtenez des avis sur vos produits</h4>
+<p>Les publications et les partages sur les médias sociaux sont nombreux. Grâce à l’écoute sociale, vous avez accès à des commentaires directs sur vos produits : plus besoin d’études de marché ou de sondages. En restant à l’écoute de vos clients, vous obtenez des retours continus, sans parti-pris, gratuitement, et ce, en toute discrétion. </p>
+<h4 style="color:#3f3679">3) Suivez les tendances du marché</h4>
+<p>En restant attentif et à l’écoute des conversations de votre communauté digitale, vous vous tenez au courant des différentes tendances et renforcez ainsi votre position sur le marché. Grâce aux nombres de partages, de likes, de retweets ou de tweets épinglés, vous savez exactement quel produit est en vogue ou attire toute l’attention des médias sociaux. Les clients montrent leur intérêt pour un produit ou une tendance en les partageant avec leurs amis. Ainsi en partageant et en repartageant, les communautés vous indiquent la cote de popularité d’un produit, ce qui vous permet d’adapter vos stocks en conséquence.</p>
+<h2 style="color:#3f3679">Comment se lancer ?</h2>
+<ol>
+<li><strong>Établissez</strong> une liste de sujets et de mots clés que vous souhaitez suivre</li>
+<li><strong>Créez</strong> des notifications grâce à un <a href="https://www.brandwatch.com/2013/08/top-10-free-social-media-monitoring-tools/" target="_blank">outil social listening</a>. Si vous utilisez une plateforme d’analyse des contenus des médias sociaux, sachez que ces outils offrent également des fonctionnalités de veille sociale.</li>
+<li>Planifiez du temps pour <strong>analyser</strong> vos résultats. Il est inutile de créer des notifications si vous n’avez pas le temps de les étudier par la suite.</li>
+<li>Trop de confusion et de bavardages inutiles ? <strong>Adaptez</strong>vos mots clés pour qu&rsquo;ils soient plus spécifiques.</li>
+<li><strong>Réagissez et communiquez</strong> rapidement avec votre communauté en ligne.</li>
+</ol>
+<hr width="20%" align="left">
+<p>Vous envisagez d&rsquo;adopter le social media listening et de l’appliquer à votre boutique en ligne ? Partagez vos résultats les plus surprenants en nous laissant un commentaire. Vous avez découvert un produit actuellement en vogue et vous souhaitez vous lancer dans la vente en ligne ? Ouvrez votre <a href="http://www.prestashop.com/">boutique en ligne avec PrestaShop</a>. </p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/quest-ce-social-listening-il-incontournable/">Qu’est-ce que le social listening et pourquoi est-il incontournable?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/quest-ce-social-listening-il-incontournable/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vente en ligne : 5 pièges à éviter</title>
+		<link>https://www.prestashop.com/blog/fr/vente-en-ligne-5-pieges-eviter/</link>
+		<comments>https://www.prestashop.com/blog/fr/vente-en-ligne-5-pieges-eviter/#comments</comments>
+		<pubDate>Thu, 16 Jun 2016 08:59:31 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20174</guid>
+		<description><![CDATA[<p>De l&#8217;extérieur, il est facile de voir les erreurs que fait un e-commerçant qui lance sa boutique en ligne. Il en va tout autrement quand il s&#8217;agit de vous-même. Nous avons donc décidé de vous présenter 5 pièges communs de la vente en ligne pour que vous puissiez les éviter. 1) Utiliser les paramètres par [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/vente-en-ligne-5-pieges-eviter/">Vente en ligne : 5 pièges à éviter</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>De l&rsquo;extérieur, il est facile de voir les erreurs que fait un e-commerçant qui lance sa boutique en ligne. Il en va tout autrement quand il s&rsquo;agit de vous-même. Nous avons donc décidé de vous présenter 5 pièges communs de la vente en ligne pour que vous puissiez les éviter.<br />
+<span id="more-20174"></span> </p>
+<h2 style="color:#ff9b15">1) Utiliser les paramètres par défaut</h2>
+<p>Il n&rsquo;est pas difficile de configurer une boutique en ligne ; cependant, cela implique d&rsquo;effectuer diverses petites tâches allant de la saisie des informations de la boutique au remplissage des champs de produits. Quand il est tard, que vous êtes fatigué ou que vous avez encore mille choses à faire, il peut être tentant d&rsquo;utiliser les paramètres par défaut. Certes, c&rsquo;est toujours mieux que de laisser les champs vides, mais si vous n&rsquo;apportez pas votre touche personnelle à votre site, comment vous démarquerez-vous ? Si votre boutique se fond dans la masse, pourquoi susciterait-elle l&rsquo;intérêt d&rsquo;un client ? Prenez le temps de modifier votre thème, de télécharger vos propres images, et de rédiger de belles descriptions de produits qui mettront en avant tous les points forts et toutes les spécificités de vos produits. </p>
+<h2 style="color:#ff9b15">2) Utiliser des images de mauvaise qualité</h2>
+<p>Achèteriez-vous un produit que vous ne reconnaissez pas sur une photo ? Posez-vous la question lorsque vous téléchargez vos images de produits. Aujourd&rsquo;hui, tous les smartphones disposent d&rsquo;un appareil photo haute résolution ; vous n&rsquo;avez donc aucune excuse si vous utilisez des clichés de mauvaise qualité. De plus, nous avons rédigé un guide qui vous explique comment prendre de superbes photos de vos produits.</p>
+<p>Un client qui achète en ligne ne peut pas toucher les produits ; il faut donc des images parfaites pour le pousser à l&rsquo;achat. C&rsquo;est tout particulièrement important pour les vêtements. </p>
+<p>Avec cette approche, vous faites d&rsquo;une pierre deux coups : vous simplifiez l&rsquo;expérience d&rsquo;achat et vous donnez un look pro et cohérent à votre site. Ainsi, vous mettez parfaitement en avant vos produits. </p>
+<h2 style="color:#ff9b15">3) Ne pas faire de tests</h2>
+<p>Avant de lancer votre boutique en ligne, vous avez probablement joué avec toutes les pages de votre site pour vous assurer que tout fonctionnait bien. Si vous ne l&rsquo;avez pas fait, il n&rsquo;y a plus de temps à perdre : testez toutes les pages de votre site pour vérifier que les liens renvoient au bon endroit et que toutes les sélections marchent. Personne n&rsquo;a envie d&rsquo;acheter sur un site à moitié fonctionnel&#8230; </p>
+<p>Une fois la phase d&rsquo;essai initiale terminée, veillez à refaire des tests dès que vous apportez des changements techniques à votre site. Si vous mettez en place une nouvelle fonctionnalité, vérifiez qu&rsquo;elle n&rsquo;entraîne pas de bug, notamment en testant l&rsquo;intégralité du processus de paiement. </p>
+<h2 style="color:#ff9b15">4) Ne pas optimiser votre site pour le référencement</h2>
+<p>Si vous pouvez faire ce que vous voulez avec votre boutique, il y a quand même quelques règles à respecter. Ainsi, vous devez optimiser votre site pour le référencement. De fait, les moteurs de recherche vous permettent de générer du trafic qualifié. En d&rsquo;autres termes, en configurant votre boutique de manière appropriée et en suivant quelques règles simples de SEO, vous pourrez facilement permettre à vos clients potentiels de trouver exactement ce qu&rsquo;ils cherchent. De plus, si votre optimisation est adaptée à votre public cible, vous pourrez même gratuitement attirer de nouveaux clients ! </p>
+<p>Voici quelques idées pour bien commencer :</p>
+<ol>
+<li>Optimisez vos descriptions de produits. </li>
+<li>Tentez l&rsquo;aventure du blog.</li>
+<li>Respectez les règles de référencement lors de la configuration de votre site.</li>
+<li>Choisissez des mots-clés pertinents. </li>
+<li>Utilisez un thème responsive. </li>
+</ol>
+<h2 style="color:#ff9b15">5) Ne pas tester de nouvelles approches</h2>
+<p>Le monde du e-commerce change en permanence. Les tendances ne durent parfois pas plus d&rsquo;une saison, et cela ne concerne pas uniquement le secteur de la mode. A l&rsquo;ère du digital, tout change tout le temps. Prenons l&rsquo;exemple du moteur de recherche Google. Les algorithmes qu&rsquo;il utilise pour déterminer l&rsquo;ordre d&rsquo;affichage des sites changent en fonction de l&rsquo;évolution des technologies. Mais Google n&rsquo;est qu&rsquo;un exemple parmi tant d&rsquo;autres. Certaines tendances sont passées de mode : la technologie Flash, la police Comic Sans, les effets clignotants et les compteurs de site Web. </p>
+<p>Evidemment, vous n&rsquo;avez pas à suivre toutes les nouvelles tendances ; adoptez simplement les nouveautés majeures pour ne pas vous laisser dépasser. </p>
+<hr width="20%" align="left">
+<p>Vous êtes-vous reconnus dans notre article ? Expliquez-nous comment vous comptez rectifier le tir dans les commentaires ci-dessous !</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/vente-en-ligne-5-pieges-eviter/">Vente en ligne : 5 pièges à éviter</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/vente-en-ligne-5-pieges-eviter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Make-Up Atelier : la réussite d&#8217;une boutique de maquillage en ligne</title>
+		<link>https://www.prestashop.com/blog/fr/make-up-atelier-reussite-dune-boutique-maquillage-en-ligne/</link>
+		<comments>https://www.prestashop.com/blog/fr/make-up-atelier-reussite-dune-boutique-maquillage-en-ligne/#comments</comments>
+		<pubDate>Wed, 15 Jun 2016 08:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20138</guid>
+		<description><![CDATA[<p>Aujourd&#8217;hui, Maxime Bouillard, PDG de Make-Up Atelier, vous explique comment son entreprise a misé sur les contenus en ligne pour booster sa croissance. En plus de son magasin physique existant, Make-Up Atelier a ouvert une boutique en ligne en 2008. En passant à PrestaShop, l&#8217;entreprise a multiplié son chiffre d&#8217;affaires en ligne par quatre. Regardez [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/make-up-atelier-reussite-dune-boutique-maquillage-en-ligne/">Make-Up Atelier : la réussite d&rsquo;une boutique de maquillage en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Aujourd&rsquo;hui, Maxime Bouillard, PDG de Make-Up Atelier, vous explique comment son entreprise a misé sur les contenus en ligne pour booster sa croissance. En plus de son magasin physique existant, Make-Up Atelier a ouvert une boutique en ligne en 2008. En passant à PrestaShop, l&rsquo;entreprise a multiplié son chiffre d&rsquo;affaires en ligne par quatre. Regardez la vidéo pour découvrir comment.<br />
+<span id="more-20138"></span></p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/2EK5mpaaceI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=Youtube-launch&amp;utm_content=makeupatelier" target="_blank"><i class="fa fa-youtube-play"></i> Voir plus de vidéos</a></div>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/make-up-atelier-reussite-dune-boutique-maquillage-en-ligne/">Make-Up Atelier : la réussite d&rsquo;une boutique de maquillage en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/make-up-atelier-reussite-dune-boutique-maquillage-en-ligne/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PrestaShop Day 2016 : retour sur une journée 100% e-commerce</title>
+		<link>https://www.prestashop.com/blog/fr/prestashop-day-2016-retour-journee-100-e-commerce/</link>
+		<comments>https://www.prestashop.com/blog/fr/prestashop-day-2016-retour-journee-100-e-commerce/#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 15:09:30 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[Actualités PrestaShop]]></category>
+		<category><![CDATA[Evènements]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20143</guid>
+		<description><![CDATA[<p>Malgré la grisaille Parisienne c’est bien à une édition haute en couleurs à laquelle de nombreux professionnels de l’e-commerce et du web ont pu participer.  Commerçants, agences web, développeurs ou web designers, ils étaient tous invités à saisir les opportunités de ce que PrestaShop appelle l’e-commerce de pointe. Voici une petite sélection des temps forts du [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/prestashop-day-2016-retour-journee-100-e-commerce/">PrestaShop Day 2016 : retour sur une journée 100% e-commerce</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Malgré la grisaille Parisienne c’est bien à une édition haute en couleurs à laquelle de nombreux professionnels de l’e-commerce et du web ont pu participer.  Commerçants, agences web, développeurs ou web designers, ils étaient tous invités à <strong>saisir les opportunités de ce que PrestaShop appelle </strong><a href="https://www.prestashop.com/blog/fr/prestashop-day-paris-2016-saisissez-les-1001-opportunites-commerce-pointe/?utm_source=events&amp;utm_medium=emails&amp;utm_campaign=gazette-psday-FR-11&amp;utm_content=opportunites-commerce-pointe" target="_blank"><strong>l’e-commerce de pointe</strong>.</a></p>
+<p>Voici une petite sélection des temps forts du PrestaShop Day Paris 2016.<br />
+<span id="more-20143"></span></p>
+<h2 style="text-align: left;"><span style="color: #25b9d7;"><b>&gt; La Keynote de PrestaShop : l’e-commerce au pluriel</b></span></h2>
+<p style="text-align: left;">Vendre en ligne avec PrestaShop, c’est se lancer, se développer et propulser son site e-commerce aux côtés d’une communauté d’1 million de membres. <strong>Microsoft rejoint l’écosystème PrestaShop ; PrestaShop 1.7 sur Symfony ; fonds d’intégration</strong>… Retrouvez toutes ces annonces dans la <span style="text-decoration: underline;"><span style="color: #251b5b;"><a href="http://www.slideshare.net/PrestaShopOfficial/prestashop-day-2016" target="_blank"><span style="color: #251b5b; text-decoration: underline;">Keynote de PrestaShop</span></a></span></span> !</p>
+<p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/xqfEWycmzsDKUA" height="485" width="595" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<h2 style="text-align: left;"><span style="color: #25b9d7;"><b>&gt; Le PrestaShop Day en vidéos</b></span></h2>
+<div style="margin-bottom: 5px;">
+<p style="text-align: left;">Envie de voir ou revoir un atelier, une conférence, une table ronde ? Rendez-vous sur<strong><a href="https://www.youtube.com/playlist?list=PLyZYn1MMU7-yxqIa7yHEKXf_pCvX60cFy" target="_blank"><span style="text-decoration: underline;"><span style="color: #251b5b; text-decoration: underline;"> notre chaîne YouTube</span></span> </a></strong>!</p>
+</div>
+<p><iframe src="https://www.youtube.com/embed/mt0GtxNJVBM?list=PLyZYn1MMU7-yxqIa7yHEKXf_pCvX60cFy" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+<h2 style="text-align: left;"><span style="color: #25b9d7;"><b>&gt; Le PrestaShop Day en photos</b></span></h2>
+<p style="text-align: left;">Revivez en images cette journée sur notre album <span style="text-decoration: underline;"><span style="color: #251b5b;"><strong><a href="https://www.facebook.com/prestashop/timeline" target="_blank"><span style="color: #251b5b; text-decoration: underline;">Facebook PrestaShop Day Paris 2016 </span></a></strong></span></span>!</p>
+<p><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.1352705111413094.1073741875.114089955274622%26type%3D3&amp;width=500" height="683" width="500" frameborder="0" scrolling="no"></iframe></p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/prestashop-day-2016-retour-journee-100-e-commerce/">PrestaShop Day 2016 : retour sur une journée 100% e-commerce</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/prestashop-day-2016-retour-journee-100-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PrestaShop est maintenant disponible sur la Marketplace Microsoft Azure.</title>
+		<link>https://www.prestashop.com/blog/fr/prestashop-maintenant-disponible-marketplace-microsoft-azure/</link>
+		<comments>https://www.prestashop.com/blog/fr/prestashop-maintenant-disponible-marketplace-microsoft-azure/#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 09:11:02 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Actualités PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20135</guid>
+		<description><![CDATA[<p>Nous nous efforçons d&#8217;améliorer en permanence la performance des boutiques de nos marchands, c&#8217;est pourquoi nous sommes fiers de vous annoncer que PrestaShop est désormais disponible partout dans le monde sur le Cloud de Microsoft Azure. Qu&#8217;est-ce que cela signifie? C&#8217;est très simple : vous pouvez obtenir PrestaShop sur la Marketplace Microsoft Azure sous la [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/prestashop-maintenant-disponible-marketplace-microsoft-azure/">PrestaShop est maintenant disponible sur la Marketplace Microsoft Azure.</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Nous nous efforçons d&rsquo;améliorer en permanence la performance des boutiques de nos marchands, c&rsquo;est pourquoi nous sommes fiers de vous annoncer que PrestaShop est désormais disponible partout dans le monde sur le <a href="https://azure.microsoft.com/fr-fr/?b=16.17" target="_blank">Cloud de Microsoft Azure</a>.<br />
+<span id="more-20135"></span><br />
+Qu&rsquo;est-ce que cela signifie? C&rsquo;est très simple : vous pouvez obtenir PrestaShop sur la <a href="https://azure.microsoft.com/fr-fr/marketplace/" target="_blank">Marketplace Microsoft Azure</a> sous la forme d&rsquo;une infrastructure multi-VM clé en main déployée automatiquement. Que vous soyez un marchand souhaitant créer votre boutique en ligne ou une agence ayant besoin d&rsquo;une solution performante, PrestaShop et Azure vous proposent des options évolutives répondant parfaitement à vos besoins. Nous avons développé plusieurs architectures prédéfinies, et nous prévoyons d&rsquo;en publier davantage dans les semaines à venir. </p>
+<p>Ce partenariat permet aux marchands de développer leur activité en s&rsquo;appuyant sur les forces des systèmes de Microsoft et de PrestaShop. Ensemble, Microsoft et PrestaShop proposent une solution flexible et internationale destinée à booster la performance des activités e-commerce.</p>
+<p>« Grâce à Microsoft Azure et PrestaShop, nous avons pu développer une plateforme e-commerce multicanale leader au sein de la Fédération Française de Football », explique Jean-Arnaud Eyme, responsable du CRM et de l&rsquo;expérience utilisateur pour l&rsquo;Olympique Lyonnais.</p>
+<p>« Microsoft et PrestaShop ont pour objectif de proposer des technologies de pointe aux entreprises de toutes tailles. Nous relevons les défis mondiaux via des approches localisées, tout en accordant une importance considérable au rôle de la communauté », déclare Jean-François Gomez, responsable du développement métier pour Microsoft. </p>
+<h2 style="color:#00adef">Microsoft Azure</h2>
+<p>Azure : qu&rsquo;est-ce que c&rsquo;est ? Il s&rsquo;agit de la plateforme Cloud de Microsoft compatible avec des solutions open source et propriétaires, reposant sur la performance des centres de données internationaux gérés par Microsoft. Ainsi, les boutiques en ligne de toutes tailles peuvent être déployées en quelques clics seulement sur Azure. Des milliers de clients, y compris le géant CDiscount, s&rsquo;appuient déjà sur cette solution internationale et évolutive proposée par Microsoft.</p>
+<h2 style="color:#00adef">Évolutivité et disponibilité</h2>
+<p>Les marchands savent qu&rsquo;ils peuvent être confrontés à des pics ou baisses d&rsquo;activité, notamment pendant les périodes de soldes et les jours de fête. L&rsquo;infrastructure d&rsquo;Azure permet aux clients PrestaShop d&rsquo;ajuster les capacités de leur boutique en fonction de ces fluctuations. Disponible dans 140 pays en permanence, Azure s&rsquo;avère particulièrement utile pour les marchands souhaitant développer leur activité à l&rsquo;international. </p>
+<h2 style="color:#00adef">Nouveaux addons</h2>
+<p>Notre partenariat avec Microsoft va permettre à notre communauté d&rsquo;exploiter toujours plus de possibilités pour booster les ventes. Nos équipes de recherche et développement redoublent d&rsquo;efforts pour développer de nouveaux addons pour Dynamics AX et Office 365, y compris des modules innovants reposant sur l&rsquo;intelligence artificielle et l&rsquo;apprentissage automatique. Les marchands utilisant déjà Microsoft peuvent désormais profiter d&rsquo;une compatibilité optimisée. Nous avons hâte de vous présenter nos prochaines nouveautés ! </p>
+<p>Pour en savoir plus, rendez-vous sur la Marketplace Azure.<br />
+<a href="https://azure.microsoft.com/fr-fr/marketplace/partners/prestashop/" target="_blank">https://azure.microsoft.com/fr-fr/marketplace/partners/prestashop/</a></p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/prestashop-maintenant-disponible-marketplace-microsoft-azure/">PrestaShop est maintenant disponible sur la Marketplace Microsoft Azure.</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/prestashop-maintenant-disponible-marketplace-microsoft-azure/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>8 idées de contenu pour les réseaux sociaux</title>
+		<link>https://www.prestashop.com/blog/fr/8-idees-contenu-les-reseaux-sociaux/</link>
+		<comments>https://www.prestashop.com/blog/fr/8-idees-contenu-les-reseaux-sociaux/#comments</comments>
+		<pubDate>Fri, 10 Jun 2016 08:30:08 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20122</guid>
+		<description><![CDATA[<p>Ce qui est génial avec les réseaux sociaux, c&#8217;est que tout se passe en temps réel. Quelle que soit votre plateforme de prédilection, vous avez accès à une communauté en ligne qui interagit et partage des informations en permanence. Cependant, entre la gestion de votre entreprise et celle de vos pages sur les réseaux sociaux, [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/8-idees-contenu-les-reseaux-sociaux/">8 idées de contenu pour les réseaux sociaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ce qui est génial avec les réseaux sociaux, c&rsquo;est que tout se passe en temps réel. Quelle que soit votre plateforme de prédilection, vous avez accès à une communauté en ligne qui interagit et partage des informations en permanence. Cependant, entre la gestion de votre entreprise et celle de vos pages sur les réseaux sociaux, vous pouvez manquer d&rsquo;idées de contenu. Aujourd&rsquo;hui, nous vous présentons donc huit idées de contenu pour les réseaux sociaux.<br />
+<span id="more-20122"></span> </p>
+<h2 style="color:#1cadcc">1) Tendances et contenus populaires</h2>
+<p>Facebook a beaucoup fait parler de lui récemment avec sa section « Populaire » qui est une source d&rsquo;inspiration idéale. Beaucoup de plateformes utilisant les hashtags proposent une section « Tendances ». Assurez-vous seulement de comprendre réellement ce qui se cache derrière un sujet populaire, notamment s&rsquo;il est sensible du point de vue social ou culturel. Concentrez-vous sur des sujets liés à votre entreprise et produisez du contenu que votre public va apprécier. </p>
+<h2 style="color:#1cadcc">2) Produits en action</h2>
+<p>Vos produits sont formidables, alors montrez-le ! Créez et utilisez des goodies. Vous vendez des vêtements ? Mettez-les en scène. Des jouets ? Jouez avec. De la nourriture ? Organisez un dîner. En présentant vos produits en action, vous donnez une meilleure idée aux clients potentiels de ce qu&rsquo;ils peuvent attendre. S&rsquo;ils réussissent à s&rsquo;imaginer utilisant vos produits, ils seront plus enclins à les acheter. </p>
+<h2 style="color:#1cadcc">3) Article lifestyle</h2>
+<p>Quel genre de clients utilise vos produits ? Créez du contenu qui tourne autour du style de vie de votre clientèle. Que devez-vous poster le dimanche matin ? Si vos clients sont des bourreaux de travail, ils ont sûrement déjà pris leur café et attaqué leur journée. Si vos clients sont des parents, ils doivent être au parc avec leurs enfants. Publiez des images lifestyle correspondant à votre public cible pour qu&rsquo;il puisse mieux s&rsquo;identifier à votre marque. </p>
+<h2 style="color:#1cadcc">4) Thèmes de la marque</h2>
+<p>Qu&rsquo;incarne votre marque ? Valorise-t-elle les femmes ? Vous adressez-vous aux défenseurs de la paresse ? Aux baroudeurs du dimanche ? Ou aux fashionistas ? Publiez un article sur les réseaux sociaux pour présenter la philosophie de votre marque. La boutique PrestaShop <a href="https://www.prestashop.com/blog/fr/galaxy-kayaks-specialiste-europeen-vente-kayaks-peche-prestashop/">Galaxy Kayaks</a> spécialiste des kayaks de pêche, met tout en œuvre pour que les clients mordent à l&rsquo;hameçon. Identifiez les valeurs de votre entreprise et mettez-les en avant dans un article. </p>
+<h2 style="color:#1cadcc">5) Concours de tag</h2>
+<p>Si vous avez envie de donner quelques goodies et d&rsquo;augmenter votre nombre d&rsquo;abonnés, les concours de tag sont un bon moyen de toucher un plus large public et d&rsquo;encourager les clients à mentionner votre marque. Il vous faut seulement un cadeau intéressant (vous pouvez travailler avec des influenceurs pour créer un cadeau exceptionnel qui vous permettra d&rsquo;élargir votre cible) et des règles indiquant que les clients doivent taguer deux amis pour participer. Et voilà, vous avez votre contenu de la journée, de nouveaux abonnés et une meilleure visibilité. (Cependant, évitez d&rsquo;organiser trop souvent ce type d&rsquo;événement pour ne pas attirer uniquement des personnes intéressées.) </p>
+<h2 style="color:#1cadcc">6) Mini-infographies</h2>
+<p>Partagez une information amusante ou unique sur votre produit ou votre secteur grâce à une mini-infographie. Contrairement aux infographies traditionnelles, ces mini-infographies sont réalisées de façon à être rapidement lues et facilement partagées. Si vous avez déjà des infographies, prenez l&rsquo;information la plus amusante et adaptez-la de nouveau ! </p>
+<h2 style="color:#1cadcc">7) Culture d&rsquo;entreprise</h2>
+<p>Montrez à vos clients le côté sympa de votre entreprise. Les réseaux sociaux, notamment LinkedIn, sont parfaits pour mettre en avant vos collaborateurs. Vos employés sont le moteur de votre entreprise : si vous faites quelque chose de sympathique pour eux, parlez-en sur les réseaux sociaux. Vous fêtez les anniversaires au bureau ? Partagez les photos. Pour le contenu de tous les jours, présentez vos meilleurs employés dans des petites vidéos ou des interviews. </p>
+<h2 style="color:#1cadcc">8) Contenus générés par les utilisateurs</h2>
+<p><a href="https://www.prestashop.com/blog/fr/e-commerce-3-raisons-dadopter-les-contenus-generes-les-utilisateurs-ugc/">Les contenus générés par les utilisateurs (UGC)</a> sont l&rsquo;une des sources de contenu les plus souvent négligées et les plus efficaces. Imaginez : vous pouvez déléguer gratuitement la création de contenus aux personnes qui connaissent et aiment votre produit ! En utilisant les UGC, vous pouvez générer du contenu gratuit de qualité, tout en construisant une relation solide avec vos clients. Suivez simplement certains de vos clients les plus fidèles ou ceux qui partagent du contenu que vous appréciez sur les réseaux sociaux. Une fois que vous avez trouvé quelque chose d&rsquo;intéressant, retweetez-le ou, si vous préférez, demandez à l&rsquo;auteur de reposter son image. </p>
+<hr width="20%" align="left">
+Prêt à mettre ces idées en application sur les réseaux sociaux ? Dites-nous l&rsquo;option que vous préférez dans les commentaires ci-dessous. Vous n&rsquo;avez pas encore de boutique en ligne à promouvoir ? Qu&rsquo;attendez-vous ? Lancez <a href="https://www.prestashop.com/fr/">votre boutique en ligne PrestaShop</a> dès aujourd&rsquo;hui. </p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/8-idees-contenu-les-reseaux-sociaux/">8 idées de contenu pour les réseaux sociaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/8-idees-contenu-les-reseaux-sociaux/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PrestaShop Day Paris 2016 : saisissez les 1001 opportunités de l’e-commerce de pointe</title>
+		<link>https://www.prestashop.com/blog/fr/prestashop-day-paris-2016-saisissez-les-1001-opportunites-commerce-pointe/</link>
+		<comments>https://www.prestashop.com/blog/fr/prestashop-day-paris-2016-saisissez-les-1001-opportunites-commerce-pointe/#comments</comments>
+		<pubDate>Tue, 07 Jun 2016 13:10:12 +0000</pubDate>
+		<dc:creator><![CDATA[Sandra Fernandes]]></dc:creator>
+				<category><![CDATA[Actualités PrestaShop]]></category>
+		<category><![CDATA[Evènements]]></category>
+		<category><![CDATA[PrestaShop]]></category>
+		<category><![CDATA[PrestaShop Day; e-commerce; international;]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20127</guid>
+		<description><![CDATA[<p>Le 2 juin dernier, PrestaShop est allé à l’assaut du potentiel inexploité de l’e-commerce aux côtés des plus grands experts, pointures et influenceurs du web et de l’e-commerce, dans le cadre du PrestaShop Day Paris. En leur proposant de participer à l’édition 2016 du PrestaShop Day, véritable plateforme alternative d’échanges, de rencontres et de discussions [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/prestashop-day-paris-2016-saisissez-les-1001-opportunites-commerce-pointe/">PrestaShop Day Paris 2016 : saisissez les 1001 opportunités de l’e-commerce de pointe</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Le 2 juin dernier, PrestaShop est allé à l’assaut du potentiel inexploité de l’e-commerce aux côtés des plus grands experts, pointures et influenceurs du web et de l’e-commerce, dans le cadre du <a href="http://www.prestashopday.com/">PrestaShop Day Paris</a>.</p>
+<p>En leur proposant de participer à l’édition 2016 du <a href="http://www.prestashopday.com/">PrestaShop Day</a>, véritable plateforme alternative d’échanges, de rencontres et de discussions sur le marché, PrestaShop a ainsi proposé à tous les professionnels du web et de l’e-commerce d’aller plus loin dans l’expérience e-commerce.<span id="more-20127"></span></p>
+<p>L’ambition de <a href="http://www.prestashop.com/">PrestaShop</a> est d’accompagner les commerçants vers l’e-commerce de pointe.</p>
+<p>L’e-commerce de pointe représente les 1001 opportunités technologiques, sectorielles, d’usages… que les e-commerçants et l’écosystème web ont en perspective pour faire que l’e-commerce devienne plus qu’un secteur, un monde d’opportunités de business pour tous.</p>
+<p>C’est aux côtés d’intervenants hors-pairs et de ses partenaires que PrestaShop a pu vous décrypter les nouvelles tendances e-commerce ; les bonnes pratiques, les conseils et perspectives d’avenir étaient bien au rendez-vous !</p>
+<p><span style="line-height: 1.5;">Et vous aussi ! PrestaShop remercie ses sponsors, partenaires, intervenants et visiteurs d’avoir bravé grèves et marées pour pouvoir participer à cette édition hors-normes !</span></p>
+<p><a href="http://www.prestashop.com/">PrestaShop</a>, c’est l’accompagnement des professionnels vers le succès de leur e-business ;</p>
+<p>PrestaShop, c’est un produit en <a href="https://www.prestashop.com/en/1.7">constante évolution</a> pour démarrer, développer et propulser votre e-commerce ;</p>
+<p>PrestaShop, c’est un <a href="http://weare1million.prestashop.com/">million de membres dans sa communauté</a> et <a href="http://ambassadors.prestashop.com/">58 ambassadeurs</a> à vos côtés partout dans le monde ;</p>
+<p>PrestaShop, c’est une solution e-commerce universelle avec des <a href="https://addons.prestashop.com/en/integration-fund">outils locaux conçus par des développeurs locaux</a> pour être certain de réussir son implémentation locale.</p>
+<p>Maintenant, c’est à vous commerçants, développeurs et web designers de partir à la conquête des opportunités que propose l’e-commerce de pointe avec PrestaShop !</p>
+<p>Pour revivre le PrestaShop Day en Replay, découvrez la sélection que nous vous avons concoctés sur <a href="https://www.youtube.com/user/prestashop">notre chaine YouTube</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/prestashop-day-paris-2016-saisissez-les-1001-opportunites-commerce-pointe/">PrestaShop Day Paris 2016 : saisissez les 1001 opportunités de l’e-commerce de pointe</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/prestashop-day-paris-2016-saisissez-les-1001-opportunites-commerce-pointe/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>3 étapes pour booster vos ventes locales et internationales</title>
+		<link>https://www.prestashop.com/blog/fr/3-etapes-booster-vos-ventes-locales-internationales/</link>
+		<comments>https://www.prestashop.com/blog/fr/3-etapes-booster-vos-ventes-locales-internationales/#comments</comments>
+		<pubDate>Mon, 06 Jun 2016 15:13:07 +0000</pubDate>
+		<dc:creator><![CDATA[Maxime Démurger]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20096</guid>
+		<description><![CDATA[<p>Vous vous lancez dans l’e-commerce ? Vous souhaitez optimiser vos ventes dans votre pays ? Vous développer à l’international ? Qu’ils soient à quelques kilomètres ou à l’autre bout du monde, adaptez votre offre aux besoins de vos clients. Cette stratégie dite glocale (issue de l’anglais local + global) consiste à proposer à chaque client [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/3-etapes-booster-vos-ventes-locales-internationales/">3 étapes pour booster vos ventes locales et internationales</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Vous vous lancez dans l’e-commerce ? Vous souhaitez optimiser vos ventes dans votre pays ? Vous développer à l’international ?</p>
+<p><strong>Qu’ils soient à quelques kilomètres ou à l’autre bout du monde, adaptez votre offre aux besoins de vos clients.</strong> Cette stratégie dite <em>glocale</em> (issue de l’anglais <em>local + global</em>) consiste à proposer à chaque client <strong>la solution qui lui convient le mieux</strong>.<br />
+<span id="more-20096"></span><br />
+Voici nos 3 conseils essentiels pour booster vos ventes en adoptant cette stratégie.</p>
+<h2 style="color: #211962">1. Commencer par cibler son marché local</h2>
+<p>Quand on se lance dans l’aventure du e-commerce, la priorité est en général de se développer dans son pays avant tout autre chose. Or, celui-ci dispose de ses propres moyens de paiement, de livraison et de mise en avant des produits. <strong>La première étape est de s’approprier son propre marché pour comprendre quelles sont les solutions préférées par la clientèle locale.</strong></p>
+<p><em><strong>Le saviez-vous ?</strong> Les Brésiliens utilisent le Boleto pour régler leurs achats en ligne. Il s’agit d’un coupon imprimable qui permet de régler ses achats dans une banque ou un point de vente en effectuant un paiement en espèces ou un virement.</em></p>
+<p>Vous êtes au Brésil ? Proposez une option de paiement <a href="http://addons.prestashop.com/fr/19848-paiement-par-boleto-bancario.html?utm_source=prestashop.com&amp;utm_medium=blog&amp;utm_term=localFR&amp;utm_content=boleto&amp;utm_campaign=blog-post-local" target="_blank">Boleto</a> au risque de perdre de nombreuses conversions.</p>
+<p>PrestaShop encourage les contributeurs de sa communauté à développer des modules locaux pour vous accompagner dans votre développement. Vous avez ainsi la certitude de disposer sur <a href="http://addons.prestashop.com/?utm_source=prestashop.com&amp;utm_medium=blog&amp;utm_term=localFR&amp;utm_content=welcomepage&amp;utm_campaign=blog-post-local" target="_blank">PrestaShop Addons</a> de modules qui répondent aux attentes de vos clients. Les projets locaux sont soutenus par notre <a href="https://addons.prestashop.com/fr/integration-fund?utm_source=prestashop.com&amp;utm_medium=blog&amp;utm_term=localFR&amp;utm_content=FIwelcomepage&amp;utm_campaign=blog-post-local" target="_blank">Fonds d’Intégration</a> qui accompagne les développeurs.</p>
+<p><strong>Retrouvez dès maintenant les modules locaux disponibles dans votre pays <a href="http://addons.prestashop.com/fr/587-modules-locaux?utm_source=prestashop.com&amp;utm_medium=blog&amp;utm_term=localFR&amp;utm_content=localmodules&amp;utm_campaign=blog-post-local" target="_blank">dans la nouvelle catégorie dédiée à ces modules</a>.</strong></p>
+<p><a style="color: #ea9629;text-decoration: underline" href="http://addons.prestashop.com/fr/587-modules-locaux?utm_source=prestashop.com&amp;utm_medium=blog&amp;utm_term=localFR&amp;utm_content=localmodules&amp;utm_campaign=blog-post-local"><img class="size-full wp-image-20120 aligncenter" alt="local_FR" src="https://www.prestashop.com/blog/fr/files/2016/06/local_FR1.png" width="420" height="205" /></a></p>
+<h2 style="color: #211962">2. Se lancer à l’international</h2>
+<p>Développer son activité dans son pays est nécessaire dans un premier temps mais <strong>se développer à l’étranger est un fort relais de croissance</strong>. Selon une récente étude menée par PayPal, 64% des e-commerçants français vendent à l’international, 59% en Allemagne et 56% au Royaume Uni. Plus de la moitié de ceux qui ne vendent pas encore à l’international prévoient de se lancer en 2016.</p>
+<p>Pour en profiter, choisir un moyen de paiement et un moyen de livraison internationaux est une première étape indispensable. Ces modules vous permettent de toucher plus de clients un peu partout dans le monde. <strong>Vos acheteurs sont rassurés de voir des solutions qu’ils connaissent bien et se sentent plus en sécurité</strong>.</p>
+<p>Imaginez que vous jouez aux fléchettes. Choisir un service global, c’est la garantie que vous toucherez la cible.</p>
+<p><em><strong>Astuce !</strong> Rendez-vous sur notre marketplace officielle PrestaShop Addons pour retrouver les <a href="http://addons.prestashop.com/fr/2-modules-prestashop?utm_source=prestashop.com&amp;utm_medium=blog&amp;utm_term=localFR&amp;utm_content=bestmodules&amp;utm_campaign=blog-post-local" target="_blank">modules incontournables</a> et utilisez la navigation à gauche pour sélectionner les catégories de paiement, de livraison.</em></p>
+<p>Pour vous démarquer encore plus, ciblez des marchés stratégiques et adaptez votre offre à ces derniers.</p>
+<h2 style="color: #211962">3. Identifier et cibler vos marchés prioritaires</h2>
+<p><strong>Se lancer à l’international grâce à des modules reconnus, c’est bien.<br />
+S’equiper des meilleurs modules locaux de vos marchés cibles, c’est mieux !</strong></p>
+<p>N’hésitez pas à proposer différents modes de paiement et de livraison à vos clients. Plus votre offre présentera d’options (dans la limite du raisonnable, bien sûr), plus votre tunnel de commande convertira.<br />
+Selon la récente étude Paypal, 66 % des commerçants présents à l&rsquo;international offrent différents modes de paiement à leurs clients.</p>
+<p><em><strong>Astuce !</strong> Retrouvez les moyens de paiement les plus populaires par pays dans notre <a href="http://addons.prestashop.com/fr/content/35-les-modes-de-paiement-en-ligne-preferes-par-pays?utm_source=prestashop.com&amp;utm_medium=blog&amp;utm_term=localFR&amp;utm_content=payment-guide&amp;utm_campaign=blog-post-local" target="_blank">guide des moyens de paiement</a>.</em></p>
+<p>Soyez également attentifs aux contraintes légales. Prenons l’exemple du Portugal. Pour lutter contre la fraude fiscale le gouvernement a rendu obligatoire l’édition de factures électroniques. Il est donc fortement recommandé, pour respecter la loi, de vous munir d’un logiciel d’édition de factures certifié. Autant vous dire qu’il est important pour vous de proposer des factures aux normes pour vos clients afin d’éviter tous problèmes légaux.</p>
+<p>Vous souhaitez vendre au Portugal ? Gagnez du temps en automatisant la création de factures certifiées grâce au module <a href="http://addons.prestashop.com/fr/22483-keyinvoice-connector.html?utm_source=prestashop.com&amp;utm_medium=blog&amp;utm_term=localFR&amp;utm_content=keyinvoice&amp;utm_campaign=blog-post-local" target="_blank">KeyInvoice</a>.</p>
+<p>Plus généralement, nous vous permettons sur Addons de trouver les principaux modules locaux nécessaires dans chaque pays. Rien de tel qu’un exemple : ci-dessous, comment trouver les modules locaux brésiliens :</p>
+<p><img class="aligncenter size-full wp-image-20089" alt="ezgif.com-resize" src="https://www.prestashop.com/blog/fr/files/2016/05/ezgif.com-resize.gif" width="480" height="270" /></p>
+<h2 style="color: #211962">Conclusion</h2>
+<p><strong>Plus votre offre sera complète et localisée, plus elle permettra de différencier votre boutique de la concurrence.</strong> La stratégie <em>glocale</em> couvre des enjeux stratégiques pour les e-commerçants qui donnent accès à de précieux relais de croissance.</p>
+<p>Pour reprendre l’image des fléchettes : combiner l’approche locale et globale, c’est tirer plusieurs fléchettes simultanément et toucher <strong>l’ensemble de la cible.</strong></p>
+<p>N’hésitez plus et tirez enfin le meilleur de votre boutique !</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/3-etapes-booster-vos-ventes-locales-internationales/">3 étapes pour booster vos ventes locales et internationales</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/3-etapes-booster-vos-ventes-locales-internationales/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>La checklist complète pour les soldes d&#8217;été : 18 conseils à suivre impérativement</title>
+		<link>https://www.prestashop.com/blog/fr/checklist-complete-les-soldes-dete-18-conseils-suivre-imperativement/</link>
+		<comments>https://www.prestashop.com/blog/fr/checklist-complete-les-soldes-dete-18-conseils-suivre-imperativement/#comments</comments>
+		<pubDate>Fri, 03 Jun 2016 12:29:05 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20099</guid>
+		<description><![CDATA[<p>Les soldes d&#8217;été approchent à grands pas, et sont suivies de près par la rentrée des classes. Pour vous faciliter la tâche, nous avons préparé une checklist comprenant 18 mesures à prendre pour tirer pleinement profit de cette saison charnière. Selon la National Retail Federation des États-Unis, les ventes en ligne, par mobile et par [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/checklist-complete-les-soldes-dete-18-conseils-suivre-imperativement/">La checklist complète pour les soldes d&rsquo;été : 18 conseils à suivre impérativement</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong style="color: #74c662">Les soldes d&rsquo;été approchent à grands pas</strong>, et sont suivies de près par la rentrée des classes. Pour vous faciliter la tâche, nous avons préparé une checklist comprenant 18 mesures à prendre pour tirer pleinement profit de cette saison charnière.<br />
+<span id="more-20099"></span><br />
+Selon la National Retail Federation des États-Unis, les ventes en ligne, par mobile et par catalogue devraient augmenter de 6 à 9 % en 2016. Un rapport publié par Kiplinger montre que les ventes en ligne représentent environ 10 % du total des biens vendus en avril, soit une hausse de près de 2 % par rapport à l&rsquo;année dernière. Compte tenu de la hausse des ventes de 4,7 % depuis 2015 tous canaux confondus, Kiplinger s&rsquo;attend à ce que les consommateurs réalisent plus de dépenses en mode et habillement à mesure que l&rsquo;économie reprend. Assurez-vous que votre boutique soit prête à gérer ce nouvel afflux de clients en suivant cette liste spéciale soldes.</p>
+<h2 style="color: #74c662">La checklist complète pour les soldes d&rsquo;été :</h2>
+<ol>
+<li><strong style="color: #74c662">Optimisez votre boutique pour gérer les pics de trafic</strong>. Qui dit hausse du trafic, dit baisse des ressources disponibles pour charger vos pages Web. Et malheureusement, ce sont les pages trop lentes à charger qui vous feront perdre le plus de ventes. Assurez-vous donc d&rsquo;utiliser <a href="https://www.prestashop.com/fr/hebergement-ecommerce" target="_blank">un hébergeur de confiance</a> qui garantira la rapidité du <a href="http://addons.prestashop.com/fr/432-performance-site" target="_blank">chargement</a> de vos pages et optimisera la performance de votre site.</li>
+<li><strong style="color: #74c662">Approvisionnez-vous !</strong> <a href="http://addons.prestashop.com/fr/444-gestion-stocks-fournisseurs" target="_blank">Anticipez les ventes</a> et assurez-vous d&rsquo;avoir assez de stock pour pouvoir répondre à la demande.</li>
+<li><strong style="color: #74c662">Affichez un compte à rebours</strong> sur votre page d&rsquo;accueil pour annoncer vos soldes imbattables à vos clients. Disponible sur <a href="http://addons.prestashop.com/fr/2221-countdown-specials-flash-sales.html" target="_blank">la Marketplace officielle de PrestaShop</a>.</li>
+<li><strong style="color: #74c662">Pensez mobile !</strong> Pour que vos clients puissent acheter chez vous partout, votre site doit être responsive et disposer d&rsquo;un système d&rsquo;encaissement mobile.</li>
+<li><strong style="color: #74c662">Proposez l&rsquo;emballage cadeau.</strong> Tous vos concurrents s&rsquo;y sont mis, vos clients l&rsquo;apprécient, et la fonctionnalité <a href="https://www.prestashop.com/blog/fr/5-idees-simples-demballage-cadeau/">d&rsquo;emballage cadeau</a> est disponible (gratuitement !) dans votre back-office PrestaShop. Qu&rsquo;attendez-vous ?</li>
+<li><strong style="color: #74c662">Proposez la livraison express, la livraison gratuite</strong> et <a href="http://addons.prestashop.com/fr/523-frais-de-port" target="_blank">respectez vos délais de livraison</a> ! Avec la livraison gratuite, vous pourrez convaincre les clients en quête de bonnes affaires et satisfaire les shoppers pressés en proposant la livraison express.</li>
+<li><strong style="color: #74c662">Proposez les retours gratuits !</strong> Ne manquez pas de mettre en avant votre politique de retours gratuits !</li>
+<li><strong style="color: #74c662">Lancez-vous dès maintenant dans les e-mails marketing</strong> si vous ne l&rsquo;avez pas déjà fait.</li>
+<li><strong style="color: #74c662">Proposez des promotions sur les réseaux sociaux</strong> avec des codes spéciaux : vos abonnés apprécieront ces réductions exclusives. Disponible sur <a href="http://addons.prestashop.com/fr/455-reseaux-sociaux" target="_blank">la Marketplace officielle de PrestaShop</a>.</li>
+<li><strong style="color: #74c662">Testez et re-testez vos promotions.</strong> Rien de pire qu&rsquo;une réduction qui ne s&rsquo;applique pas&#8230;</li>
+<li><strong style="color: #74c662">Créez des pages d&rsquo;accueil contenant des mots-clés liés aux soldes :</strong> rendez-vous sur <a href="http://addons.prestashop.com/fr/recherche?id_category=0&amp;search_query=landing+pages" target="_blank">PrestaShop Addons</a> pour trouver l&rsquo;inspiration et créer des billets de blog en phase avec la saison.</li>
+<li><strong style="color: #74c662">Décorez votre boutique avec</strong> <a href="http://addons.prestashop.com/fr/61-themes-cadeaux-fetes" target="_blank">PrestaShop Themes</a> et <a href="http://addons.prestashop.com/fr/20844-label-de-produit.html" target="_blank">mettez en avant vos articles soldés</a> !</li>
+<li><strong style="color: #74c662">Les ventes croisées et les montées en gamme</strong> sont déjà intégrées à PrestaShop, alors pourquoi vous en priver ?</li>
+<li><strong style="color: #74c662">Créez des catégories de cadeaux spéciales :</strong> pour lui, pour elle, pour les enfants, etc&#8230;</li>
+<li><strong style="color: #74c662">Encouragez les clients à s&rsquo;inscrire à votre newsletter</strong>, en rendant vos CTA bien <a href="http://addons.prestashop.com/fr/21278-pop-newsletter-popup.html" target="_blank">extra visible</a>, car les visiteurs sont plus enclins à s&rsquo;abonner pendant la période des soldes.</li>
+<li><strong style="color: #74c662">Surveillez en permanence</strong> votre back-office, vos réseaux sociaux et votre boîte de réception pour éviter tout inconvénient pendant les soldes.</li>
+<li><strong style="color: #74c662">Proposez des services client supplémentaires</strong> pour que vos clients puissent vous contacter facilement. Utilisez par exemple un <a href="http://addons.prestashop.com/fr/477-support-chat-online" target="_blank">chat en direct</a>, des lignes téléphoniques et des adresses e-mail pour pouvoir répondre plus rapidement.</li>
+<li><strong style="color: #74c662">Proposez l&rsquo;achat express.</strong> Vos clients veulent saisir les bonnes affaires le plus vite possible, <a href="http://addons.prestashop.com/fr/509-processus-rapide-commande" target="_blank">alors ne ralentissez pas le processus d&rsquo;achat</a> !</li>
+</ol>
+<p><strong>Bonus:</strong> vous pouvez aussi inclure <a href="http://addons.prestashop.com/fr/21510-pop-exit-rettargeting-onsite-popup.html" target="_blank">une offre popup de sortie</a>. Saviez-vous que ces promotions permettent d&rsquo;inciter 25 % des visiteurs s&rsquo;apprêtant à quitter votre site à finaliser leur achat ? Sinon, vous pouvez également leur rappeler qu&rsquo;ils ont ajouté des articles à leur panier grâce à <a href="http://addons.prestashop.com/fr/16535-paniers-abandonnes-pro.html" target="_blank">un e-mail de panier abandonné</a>. PrestaShop vous accompagne en permanence.</p>
+<hr align="left" width="20%" />
+<p>Quelles mesures avez-vous prises pour l&rsquo;instant ? N&rsquo;hésitez pas à répondre dans les commentaires ci-dessous.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/checklist-complete-les-soldes-dete-18-conseils-suivre-imperativement/">La checklist complète pour les soldes d&rsquo;été : 18 conseils à suivre impérativement</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/checklist-complete-les-soldes-dete-18-conseils-suivre-imperativement/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
